@@ -7,7 +7,7 @@ CS @ Oregon State University
 ## What I'm Currently Working On
 
 - Building a key-value storage engine in C for next-gen KV SSDs (Capstone w/ Oracle Cloud)
-- Developing LLVM/MLIR compiler passes for high-level synthesis at OSU's STAR Lab
+- Developing LLVM/MLIR compiler passes for high-level synthesis tools at OSU's STAR Lab
 
 ## Prev Experience
 
